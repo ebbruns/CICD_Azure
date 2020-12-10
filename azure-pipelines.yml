@@ -20,7 +20,6 @@ steps:
   inputs:
     testTarget: 'TestProject'
     orchestratorConnection: 'UiPath Testing Orch'
-    testProjectPath: '$(Build.SourcesDirectory)'
     environment: 'EvanEnvironment'
     folderName: 'Evan Bruns'
 - task: UiPathDeploy@2
