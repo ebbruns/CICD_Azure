@@ -8,7 +8,9 @@
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.System.Activities": "[20.10.1]",
     "UiPath.Testing.Activities": "[1.2.4]",
-    "UiPath.UIAutomation.Activities": "[20.10.6]"
+    "UiPath.UIAutomation.Activities": "[20.10.6]",
+    "UiPath.WebAPI.Activities": "[1.6.0]",
+    "UiPathTeam.JSONUtilities.Activities": "[0.5.5]"
   },
   "webServices": [],
   "entitiesStores": [],
